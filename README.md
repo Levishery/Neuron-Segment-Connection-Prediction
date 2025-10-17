@@ -2,6 +2,13 @@
 
 This repository contains the official implementation for the paper "Neuron Segment Connectivity Prediction with Multimodal Features for Connectomics".
 
+## TODO
+- [x] Test code
+      
+Upon the paper's acceptance:
+- [ ] Training code
+- [ ] Scripts to extract data from neuron skeletons (SWC files)
+- [ ] 
 ![Teaser Image](doc/teaser_tmi.png)
 
 ### Abstract
@@ -41,3 +48,4 @@ To run the test with the **PointNet++** backbone, execute the following command:
 ```bash
 bash test_vector_image.sh
 ```
+
